@@ -690,11 +690,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.SMSCode\\CodeGenerator.SMSCode.csproj",
+      "projectUniqueName": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.SMSCode\\CodeGenerator.SMSCode.csproj",
       "projectName": "CodeGenerator.SMSCode",
-      "projectPath": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.SMSCode\\CodeGenerator.SMSCode.csproj",
+      "projectPath": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.SMSCode\\CodeGenerator.SMSCode.csproj",
       "packagesPath": "C:\\Users\\totp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.SMSCode\\obj\\",
+      "outputPath": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.SMSCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -715,8 +715,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.Interfaces\\CodeGenerator.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.Interfaces\\CodeGenerator.Interfaces.csproj"
+            "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.Interfaces\\CodeGenerator.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.Interfaces\\CodeGenerator.Interfaces.csproj"
             }
           }
         }

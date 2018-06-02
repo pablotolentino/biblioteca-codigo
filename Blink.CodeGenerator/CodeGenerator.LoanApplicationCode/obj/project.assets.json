@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.LoanApplicationCode\\CodeGenerator.LoanApplicationCode.csproj",
+      "projectUniqueName": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.LoanApplicationCode\\CodeGenerator.LoanApplicationCode.csproj",
       "projectName": "CodeGenerator.LoanApplicationCode",
-      "projectPath": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.LoanApplicationCode\\CodeGenerator.LoanApplicationCode.csproj",
+      "projectPath": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.LoanApplicationCode\\CodeGenerator.LoanApplicationCode.csproj",
       "packagesPath": "C:\\Users\\totp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\totp\\Documents\\GitHub\\Blink.CodeGenerator\\CodeGenerator.LoanApplicationCode\\obj\\",
+      "outputPath": "C:\\Users\\totp\\Documents\\GitHub\\biblioteca-codigo\\Blink.CodeGenerator\\CodeGenerator.LoanApplicationCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
