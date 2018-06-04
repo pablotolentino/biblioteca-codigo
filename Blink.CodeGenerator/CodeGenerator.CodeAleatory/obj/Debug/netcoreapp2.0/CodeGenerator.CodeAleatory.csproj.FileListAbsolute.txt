@@ -1,0 +1,13 @@
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\bin\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.deps.json
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\bin\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.dll
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\bin\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.pdb
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\bin\Debug\netcoreapp2.0\CodeGenerator.Interfaces.dll
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\bin\Debug\netcoreapp2.0\CodeGenerator.Interfaces.pdb
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.csprojResolveAssemblyReference.cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.Properties.Resources.resources
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.csproj.GenerateResource.Cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.csproj.CoreCompileInputs.cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.AssemblyInfoInputs.cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.AssemblyInfo.cs
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.dll
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAleatory\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAleatory.pdb

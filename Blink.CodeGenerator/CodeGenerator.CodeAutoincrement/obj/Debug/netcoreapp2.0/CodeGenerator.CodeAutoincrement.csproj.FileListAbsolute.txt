@@ -1,0 +1,13 @@
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.csprojResolveAssemblyReference.cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.Properties.Resources.resources
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.csproj.GenerateResource.Cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.csproj.CoreCompileInputs.cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.AssemblyInfoInputs.cache
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.AssemblyInfo.cs
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\bin\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.deps.json
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\bin\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.dll
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\bin\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.pdb
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\bin\Debug\netcoreapp2.0\CodeGenerator.Interfaces.dll
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\bin\Debug\netcoreapp2.0\CodeGenerator.Interfaces.pdb
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.dll
+C:\Users\totp\Documents\GitHub\biblioteca-codigo\Blink.CodeGenerator\CodeGenerator.CodeAutoincrement\obj\Debug\netcoreapp2.0\CodeGenerator.CodeAutoincrement.pdb
